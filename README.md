@@ -6,4 +6,4 @@ My objective is to determine the optimal percent allocation of a risk-averse por
 - Extrapolating year-over-year returns, expected returns, standard deviations, correlations, and covariances **(done)**
 - Portfolio optimization **(done)**
 
-Through this project, I've learned a good deal about using the yfinance API and even about portfolio optimization concepts such as the dirichlet distribution. This has also been a good exercise in beginning to ask questions about the data.
+Through this project, I've learned a good deal about using the yfinance API and about portfolio optimization concepts and tools, including the CVXPY library. This has also been a good exercise in beginning to ask questions about the data.
